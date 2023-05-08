@@ -8,9 +8,9 @@ After the first lesson  we will start learning The 12 Principles of Animation (t
 
 For our final project we will make an animation that illustrates all 12 principles. You will show your animation, discuss your thought process and how it illustrates the principles.
 
-Lessons:
+[Lessons](/Lessons):
 
-1. Goals, purpose, and tools for the course
+1. [Goals, purpose, and tools for the course](Lessons/Goals, purpose and tools)
 2. Straight ahead action and pose to pose
 3. Slow in and slow out
 4. Staging
