@@ -10,7 +10,7 @@ For our final project we will make an animation that illustrates all 12 principl
 
 [Lessons](/Lessons):
 
-1. [Goals, purpose, and tools for the course](Lessons/Goals, purpose and tools)
+1. Goals, purpose, and tools for the course
 2. Straight ahead action and pose to pose
 3. Slow in and slow out
 4. Staging
@@ -23,6 +23,6 @@ For our final project we will make an animation that illustrates all 12 principl
 11. Secondary action
 12. Solid Drawing
 13. Appeal
-
+[Goals, purpose, and tools for the course]: Lessons/1-Goals_purpose_tools
 
 I have created an #animation-club slack channel where you can ask questions, talk about animation and help each other with your assignments. I recommend joining it if you plan to take this course and/or if you are interested in animation.
