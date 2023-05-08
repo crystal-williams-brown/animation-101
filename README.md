@@ -10,7 +10,7 @@ For our final project we will make an animation that illustrates all 12 principl
 
 [Lessons](/Lessons):
 
-1. [Goals, purpose, and tools for the course](Lessons/1-Goals_purpose_tools)
+1. [Goals, purpose, and tools for the course](Lessons/1-Goals_purpose_tools.md)
 2. Straight ahead action and pose to pose
 3. Slow in and slow out
 4. Staging
