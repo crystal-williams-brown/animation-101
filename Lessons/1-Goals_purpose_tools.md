@@ -22,7 +22,10 @@ Consistency is a vital part of animation. Because of this we will focus on creat
 The key to consistent shapes is using your full arm rather than your wrist to draw, and practicing. Using a larger muscle group will help steady your motion and reduce fatigue. Be sure not to hold your writing implement too tightly, it’s better to use a loose/gentle grip.
 
 #### Requirements:
-For each of the following shapes fill a single letter sized sheet of paper with rows of consistent drawings of it. The repetitions of the same shape should be visibly close to the same size and overall look.
-- Circle
-- Square
-- Triangle
+1. For each of the following shapes fill a single letter sized sheet of paper with rows of consistent drawings of it. The repetitions of the same shape should be visibly close to the same size and overall look.
+  - Circle
+  - Square
+  - Triangle
+2. Setup a code pen and make a circle, square and triangle. You can use these shapes for your future animation assignments. Feel free to make them your own.
+
+Here is the link to my Code Pen where I made the shapes https://codepen.io/crystal-williams-brown/pen/vYVrRbv
