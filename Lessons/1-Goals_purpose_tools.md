@@ -17,9 +17,9 @@ We will be making web animations for this class using CSS. You will do your assi
 ## Assignment
 
 #### Context:
-Consistency is a vital part of animation. Because of this we will focus on creating consistent shapes for our first assignment. This is very important for hand drawn animation, storyboards, character design, and layout sketches.
+Consistency is a vital part of animation. This is very important for hand drawn animation, storyboards, character design, and layout sketches.
 
-The key to consistent shapes is using your full arm rather than your wrist to draw, and practicing. Using a larger muscle group will help steady your motion and reduce fatigue. Be sure not to hold your writing implement too tightly, it’s better to use a loose/gentle grip.
+The key to consistent shapes is using your full arm rather than your wrist to draw. Using a larger muscle group will help steady your motion and reduce fatigue. Be sure not to hold your writing implement too tightly, it’s better to use a loose/gentle grip.
 
 Creating shapes in web animation requires different skills. You don't need to know how to draw but practicing drawing shapes consitently will help you with storyboarding animations. For web animation we use borders and size to make simple shapes. We'll use spans or divs to make our shapes.
 
