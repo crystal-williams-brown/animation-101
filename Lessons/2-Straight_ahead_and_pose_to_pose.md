@@ -1,4 +1,4 @@
-## Purpose:
+## Straight Ahead and Pose to Pose:
 
 In animation you use still frames ordered in a way to convey a sense of motion. How you create those frames changes the way that motion feels/looks.
 
@@ -13,9 +13,9 @@ You will be animating a shape changing color using the 2 different styles of ani
 
 
 #### Requirements:
-Setup a code pen and make make 2 versions of the shape and have each one use one of the forms of animating frames.
+Setup a code pen and make 2 versions of the shape and have each one use one of the forms of animating frames.
 
-Here is the link to my Code Pen where I did animated using the 2 forms https://codepen.io/crystal-williams-brown/pen/LYgrmQv
+Here is the link to my Code Pen where I animated using the 2 forms https://codepen.io/crystal-williams-brown/pen/LYgrmQv
 
 #### Bonus Practice:
 Add a play button to play the animations
