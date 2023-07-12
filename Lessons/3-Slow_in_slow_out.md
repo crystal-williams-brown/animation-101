@@ -8,7 +8,7 @@ For showing different timings we will use transition and transition-timing-funct
 - ease-out, where the transition ends slower than it starts
 - ease-it-out, where the transition starts and ends slower than the speed it has in the middle
 
-There are other things you can do with timing, such as manually skipping frames. Like so `transition-timing-function: steps(2, jump-start);`. This has us skip 2 frames at the start of the transition. [More details on transitions can be found in Modzilla docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
+There are other things you can do with timing, such as manually skipping frames. Like so `transition-timing-function: steps(2, jump-start);`. This has us skip 2 frames at the start of the transition. [More details on transitions can be found in Mozilla docs](https://developer.mozilla.org/en-US/docs/Web/CSS/transition-timing-function)
 
 ***
 
