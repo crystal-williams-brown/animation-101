@@ -6,6 +6,44 @@ For this principle we will anchor our object, the anchor can be anything. I deci
 
 In CSS we can use the animation and transformation attribute. You can set the translate and rotate to effect the arc. Often a object rotates a bit during it's arc.
 
+To create the arc you can transform the shape using translate, which positions the shape within the screen. We will combine translation with the keyframes we used for the [straight ahead and pose to pose lesson](2-Straight_ahead_and_pose_to_pose.md).
+
+Below is an example where percentages are used in the keyframes.
+
+```
+.triangle {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 45px solid transparent;
+  border-top: 0;
+  border-bottom: 100px solid #ffc726;
+  animation: arc 4s forwards;
+  animation-timing-function: ease-out;
+}
+
+@keyframes arc {
+  0%{
+    transform: translate(0%, 8%) rotate(-6deg);
+  }
+   100%{
+    transform: translate(50%, 0%) rotate(0deg);
+  }
+}
+```
+The first percentage is the amount of the animation time that the individual transformation with utilize. It's starting with 0% because this is before the animation begins. You can add more percentages with different transformations and each one will be a keyframe.
+```
+@keyframes arc {
+  0%{
+```
+The percentages for the translation are determining how far the movement goes based on the parent of the object. You don't have to use percentages, you can get more exact. The first percentage controls the left to right, the second controls the up and down.
+`transform: translate(0%, 8%)`
+
+The rotate option lets you add a tilt/rotation to your object that will be either clockwise or counterclockwise depending on if the number is positive or negative.
+`rotate(-6deg);`
+
+animation timing-function is like the transistion-timing-fuction from our [slow in slow out lesson](3-Slow_in_slow_out.md).
+`animation-timing-function: ease-out;`
 ***
 
 ## Assignment
