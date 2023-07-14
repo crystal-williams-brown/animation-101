@@ -10,11 +10,19 @@ For our final project we will make an animation that illustrates all 12 principl
 
 [Lessons](/Lessons):
 
-1. [Goals, purpose, and tools for the course](Lessons/1-Goals_purpose_tools.md)
-2. [Straight ahead action and pose to pose](Lessons/2-Straight_ahead_and_pose_to_pose.md)
-3. [Slow in and slow out](Lessons/3-Slow_in_slow_out.md)
-4. [Staging](Lessons/4-Staging.md)
-5. [Arc](Lessons/5-Arc.md)
+1. [Goals, purpose, and tools for the course](Lessons/1-Goals_purpose_tools.md),
+[Video](https://drive.google.com/file/d/17NOGPXrXEC3ijaJKSHYWHrftZnBN6GvC/view?usp=drive_link),
+[Transcript](https://docs.google.com/document/d/1hWiBs5SjYnccMFevZjBHqtirYSxi-WX8y7VZuvSfOHw/edit?usp=drive_link)
+2. [Straight ahead action and pose to pose](Lessons/2-Straight_ahead_and_pose_to_pose.md),
+[Video](https://drive.google.com/file/d/18Fxw0MkCu6VUDcFrW5WAtryqcr2OU_NU/view?usp=drive_link),
+[Transcript](https://docs.google.com/document/d/1iEetedvrAUnVWOUdV05SdSAeYNzkPdG0vjqVTtjdLws/edit?usp=drive_link)
+3. [Slow in and slow out](Lessons/3-Slow_in_slow_out.md),
+[Video](https://drive.google.com/file/d/1P9dr3gm7lkfXWbqZxH43i3QKRillFxZ-/view?usp=drive_link),
+[Transcript](https://docs.google.com/document/d/1Es4xopHs6o1QqXMlG_Hv1JAeRnXlgsHtkAu2QooJ2hs/edit?usp=drive_link)
+4. [Staging](Lessons/4-Staging.md),
+[Video](https://drive.google.com/file/d/1_XYGP-bCqn6VwXxTUY6qvYqDjrvNdTV8/view?usp=drive_link),
+[Transcript](https://docs.google.com/document/d/1wEPRDP_hvn2M6Js-vYX-CVTE5s0zhtOzxFxcFDvJhXE/edit?usp=drive_link)
+5. [Arc](Lessons/5-Arc.md), this was combined into staging
 6. Timing
 7. Anticipation
 8. Squash and Stretch
