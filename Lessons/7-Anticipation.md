@@ -12,4 +12,7 @@ You can make use of keyframes in CSS to acheieve this effect, along with timing.
 ## Assignment
 Think of an action that can proceed your main action and sets up anticipation. You can choose to have the main action be the opposite of what would be expected or be in line with expectation. That is completely up to you.
 
+#### Requirements:
+Use code pen to show anticipation by adding a setup action to the main action of the animation.
+
 In my code pen I opted to use a ball rolling to illustrate anticipation https://codepen.io/crystal-williams-brown/pen/LYXKmdG
