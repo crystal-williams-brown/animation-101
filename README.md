@@ -24,7 +24,7 @@ For our final project we will make an animation that illustrates all 12 principl
 [Transcript](https://docs.google.com/document/d/1wEPRDP_hvn2M6Js-vYX-CVTE5s0zhtOzxFxcFDvJhXE/edit?usp=drive_link)
 5. [Arc](Lessons/5-Arc.md), this was combined into staging
 6. [Timing](Lessons/6-Timing.md)
-7. Anticipation
+7. [Anticipation](Lessons/7-Anticipation.md)
 8. Squash and Stretch
 9. Follow through and overlapping action
 10. Exaggeration
